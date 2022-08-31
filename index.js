@@ -8,12 +8,12 @@ ADN Diginet Ans:
 // 1.------
 // Using image map we can create a clickable areas on an image. For the crate a image map we have to use <map /> tag and this areas defines with one or more <area /> tag: 
 // Like: 
- <img src="" alt="" usemap="#map">
+{/* <img src="" alt="" usemap="#map">
 <map name="map">
   <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
   <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
   <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
-</map> 
+</map> */}
 
 
 // 2.-------
